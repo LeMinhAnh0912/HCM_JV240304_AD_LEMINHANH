@@ -73,6 +73,8 @@ span {
   position: fixed;
   top: 4rem;
   right: 0.25rem;
+  overflow-y: auto;
+  max-height: 450px;
 }
 .DeleteIcon {
   color: white;
